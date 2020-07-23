@@ -1,14 +1,14 @@
 {
-  "name": "representor-serializer",
+  "name": "@urgentconsult/representor-serializer",
   "version": "1.0.0",
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
-  },
   "description": "Node.js implementation of a serializer for major Hypermedia Formats, in the context of Representor Pattern.",
   "main": "representor.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/apiacademy/representor.git"
+  "repository" : {
+    "type" : "git",
+    "url": "ssh://git@github.com:urgentconsult/representor-serializer.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "keywords": [
     "hypermedia",
